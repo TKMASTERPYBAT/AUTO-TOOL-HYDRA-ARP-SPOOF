@@ -10,8 +10,12 @@ ISAMS
 
 |INSTALL|
 
-git clone
+git clone https://github.com/TKMASTERPYBAT/AUTO-TOOL-HYDRA-ARP-SPOOF.git
+***
 cd AUTO-TOOL-HYDRA-ARP-SPOOF
-python3 WOWC.py 
+***
+python3 WOWC.py
+*
 or
+*
 sudo python3 WOWC.py
